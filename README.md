@@ -1,4 +1,7 @@
 # lceda_pro
+  
+作者:嗷嗷叫的老马(http://www.m5home.com)  
+  
 利用CefSharp包装了一下立创EDA的专业版页面(https://pro.lceda.cn/editor ),好处是不需要另外下载浏览器了.  
 坏处嘛.....这CefSharp巨大,压缩后还得50MB....-_-!  
 此代码需要使用VS2017打开,然后再从NuGet还原CefSharp包.  
